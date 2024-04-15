@@ -5474,7 +5474,7 @@ body.menu-active .modal-backdrop {
 }
 
 .hero-logo-circle:nth-child(2) {
-  animation-duration: 40s;
+  animation-duration: 0s;
 }
 .hero-logo-circle:nth-child(3) {
   animation-duration: 50s;
